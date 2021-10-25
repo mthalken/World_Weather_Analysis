@@ -5,6 +5,7 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 requests.ipynb
+google_nearby_search.ipynb
 
 
 # Byte-compiled / optimized / DLL files
