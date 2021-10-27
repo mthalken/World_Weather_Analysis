@@ -19,6 +19,13 @@
 - You can also see the preliminary code [here](https://github.com/mthalken/World_Weather_Analysis/blob/main/prep_code/WeatherPy.ipynb)
 
 ## Results 
+
+- Vacation map between 75 degrees and 80 degrees Fahrenhiet: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_search/weatherpy_vacation_map.png)
+
+- Location guide in Sumatra, Indonesia: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_itinerary/weather_travel_map_markers.png)
+
+- Travel guide between locations in Sumatra, Indonesia: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_itinerary/weatherpy_travel_map.png)
+
 ### The analysis
 - What are two conclusions you can draw?
 
