@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-## The purpose of this analysis was to create code to take in user input for minimum and maximum temperatures and find current recommendations for hotels based on that input with Google Maps and Places API and OpenWeatherMap API. We also did an exploritory analysis on linear regression for the Northern and Southern hemisphere for temperature, humidity, cloudiness, and wind speed. 
+## The purpose of this analysis was to create code to take in user input for minimum and maximum temperatures and find current recommendations for hotels based on that input with Google Maps and Places API and OpenWeatherMap API. We also did an exploratory  analysis on linear regression for the Northern and Southern hemisphere for temperature, humidity, cloudiness, and wind speed. 
 
 ## Project Overview:
 1. Collect 2000 random latitudes and longitudes to use the OpenWeatherMap API to parse the JSON data into a dataframe. 
@@ -20,25 +20,9 @@
 
 ## Results 
 
-- Vacation map between 75 degrees and 80 degrees Fahrenhiet: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_search/weatherpy_vacation_map.png)
+- Vacation map between 75 degrees and 80 degrees Fahrenheit: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_search/weatherpy_vacation_map.png)
 
 - Location guide in Sumatra, Indonesia: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_itinerary/weather_travel_map_markers.png)
 
 - Travel guide between locations in Sumatra, Indonesia: ![png](https://github.com/mthalken/World_Weather_Analysis/blob/main/vacation_itinerary/weatherpy_travel_map.png)
 
-### The analysis
-- What are two conclusions you can draw?
-
-- What can you conclude?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
-## Summary
-
-
-
-
-image link: ![png](link)
-clink link: [here](link)
